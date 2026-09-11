@@ -6,7 +6,7 @@ public class Arithmatic_Operators {
         int y=2;
         int z;
         System.out.println("Number-1: "+x);
-        System.out.println("Numver-2: "+y);
+        System.out.println("Number-2: "+y);
         z=x+y;  // Addition
         System.out.println("Addition: "+z);
         z=x-y;  // Subtraction
