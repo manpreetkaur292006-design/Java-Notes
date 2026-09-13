@@ -16,9 +16,11 @@ public class Rock_Paper_Scissors_Game {
         String computerChoice;
         String playAgain = "yes";
 
-        // GET A CHOICE FROM THE USER
+        // DO - WHILE LOOP FOR REPEATED ITERATION TILL THE USER WANT TO PLAY
 
         do{
+            // GET A CHOICE FROM THE USER
+
             System.out.print("Enter your move (rock,paper,scissors): ");
             playerChoice = scanner.nextLine().toLowerCase();
 
