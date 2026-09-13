@@ -5,6 +5,8 @@ public class Overloaded_constructors {
         // constructors with different parameters lists.
         // enable objects to be initialized in various ways.
         // (by passing varying number of arguments in it)
+        // this could be great in the situation where some fields
+        // are optional while creating an object
 
         // user - 1
         Users user1 = new Users("Manpreet");
