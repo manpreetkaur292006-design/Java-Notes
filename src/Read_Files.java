@@ -16,7 +16,7 @@ public class Read_Files {
         // between the program and the file system - it help us read files more efficiently
         // and the file reader is what that actually reads the file
 
-        String filePath = "C:\\Users\\MANPREET KAUR\\IdeaProjects\\MyFirstProject\\src\\read-test.txt";
+        String filePath = "C:\\Users\\MANPREET KAUR\\IdeaProjects\\MyFirstProject\\read-test.txt";
 
         // buffered reader -
         // this needs a reader object as an argument that is why
